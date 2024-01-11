@@ -32,6 +32,7 @@ install_requires = [
     'tqdm>=4.36.1',
     'stumpy>=1.7,<1.11',
     'ncps',
+    # 'torch',
 
     # fix conflict
     'protobuf<4',
